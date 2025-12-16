@@ -1,5 +1,5 @@
 <h2>Recover Your Wifi Password</h2>
-<h4>Wifi Password Recover tool by M.Hasnain Sabqi</h4>
+<h4>Wifi Password Recover tool (Free) </h4>
 <h6>Recover your wifi password by downloading the [recoverwifipass.vbs] and [wifipass.txt] to your pendrive or USB and right click on [recoverwifipass.vbs] file 
 and click on edit and replace the text "Your Wifi Name" with your exact wifi name {If the name of wifi is wrong it doesnot work} and 
 then save it after saving it you can double click on [recoverwifipass.vbs] file and the computer will run commands automatically and
